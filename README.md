@@ -1,38 +1,44 @@
 # CloudCraft Studio
 
-A simple cloud-hosting landing page designed to demonstrate a fast, production-ready website deployment.
+## Project Overview
+CloudCraft Studio is a simple landing page for a fictional cloud hosting business. The project is designed to showcase a modern, professional website that can be deployed quickly using a static hosting platform.
 
-## Project overview
-This project is a small marketing website for a fictional cloud services brand. It showcases a modern landing page with a hero banner, feature cards, service highlights, and a straightforward call-to-action.
-
-## Technologies used
+## Technologies Used
 - HTML5
 - CSS3
-- GitHub Pages for static hosting
+- GitHub Pages
 
-## Selected hosting platform
-GitHub Pages is a simple and reliable choice for hosting a static website from a public GitHub repository without the need for a complex server setup.
+## Selected Hosting Platform
+GitHub Pages was selected because it is a simple and free option for hosting static websites directly from a GitHub repository. It is ideal for small projects like this landing page.
 
-## Setup and configuration requirements
-Before publishing this project:
-- A GitHub account is required.
-- The repository should be public if using the default GitHub Pages free tier.
-- A browser is required to view the site once it is deployed.
+## Setup and Configuration Requirements
+Before deploying the project, make sure you have:
+- A GitHub account
+- A public GitHub repository
+- Internet access to access the GitHub Pages settings
+- A browser to view the deployed website
 
-## Step-by-step deployment instructions
-1. Create or open a GitHub repository.
-2. Upload the files `index.html` and `styles.css` to the repository root.
-3. Open the repository settings.
-4. Navigate to the Pages section.
-5. Choose the branch to deploy from, such as `main`.
-6. Set the folder to `/root` or the root directory when applicable.
-7. Save the configuration.
-8. Wait a few minutes for GitHub Pages to build and publish the website.
+## Deployment Instructions
+1. Create a GitHub repository.
+2. Upload the project files (`index.html` and `styles.css`) to the repository.
+3. Open the repository in GitHub.
+4. Go to Settings.
+5. Open the Pages section.
+6. Under "Build and deployment", choose "Deploy from a branch".
+7. Select the branch (for example, `main`).
+8. Set the folder to `/root`.
+9. Click Save.
+10. Wait a few minutes for GitHub to publish the site.
+11. Open the generated URL to view the website.
 
+## Live Website URL
+https://parimalcoder29.github.io/cloudcraft-studio/
 
+## Repository
+https://github.com/parimalcoder29/cloudcraft-studio
 
-
-
+## Notes
+This project is intentionally lightweight and easy to deploy. It demonstrates how a simple static website can be published quickly using cloud hosting services.
 <!DOCTYPE html>
 <html lang="en">
   <head>
