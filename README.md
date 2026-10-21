@@ -46,9 +46,9 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="CloudCraft Studio helps businesses launch faster with modern cloud hosting and polished digital experiences."
+      content="CloudCraft Studio helps businesses launch faster with modern cloud hosting and digital experiences."
     />
-    <title>CloudCraft Studio | Cloud Hosting Landing Page</title>
+    <title>CloudCraft Studio | Cloud Hosting</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -79,23 +79,23 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
         <div class="container hero-grid">
           <div class="hero-copy">
             <p class="eyebrow">Cloud hosting for modern teams</p>
-            <h1>Launch your next digital product with speed and confidence.</h1>
+            <h1>Launch faster. Scale smarter.</h1>
             <p class="subheading">
-              From simple landing pages to scalable application infrastructure,
-              we design and deploy cloud experiences that help businesses grow.
+              We help startups, founders, and growing businesses build reliable
+              digital experiences with secure, scalable cloud hosting.
             </p>
             <div class="hero-actions">
               <a class="btn btn-primary" href="#contact">Get Started</a>
-              <a class="btn btn-secondary" href="#features">Explore Features</a>
+              <a class="btn btn-secondary" href="#features">View Solutions</a>
             </div>
             <ul class="trust-list" aria-label="Highlights">
-              <li>99.9% uptime focus</li>
-              <li>Fast global delivery</li>
-              <li>Secure by default</li>
+              <li>99.9% uptime mindset</li>
+              <li>Fast setup</li>
+              <li>Built for growth</li>
             </ul>
           </div>
 
-          <div class="hero-panel" aria-label="Platform overview diagram">
+          <div class="hero-panel">
             <div class="panel-card large">
               <div class="mini-header">
                 <span class="dot green"></span>
@@ -108,22 +108,30 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
                   <strong>240+</strong>
                 </div>
                 <div>
-                  <span class="label">Avg. time</span>
-                  <strong>3 days</strong>
+                  <span class="label">Response</span>
+                  <strong>24/7</strong>
                 </div>
               </div>
               <div class="bars" aria-hidden="true">
-                <span style="height: 32%"></span>
-                <span style="height: 48%"></span>
-                <span style="height: 58%"></span>
-                <span style="height: 76%"></span>
+                <span style="height: 36%"></span>
+                <span style="height: 52%"></span>
+                <span style="height: 68%"></span>
+                <span style="height: 84%"></span>
                 <span style="height: 100%"></span>
               </div>
             </div>
-            <div class="panel-card small">
-              <p>Live traffic</p>
-              <strong>4.8k</strong>
-              <span>users this month</span>
+
+            <div class="mini-row">
+              <div class="panel-card small">
+                <p>Live traffic</p>
+                <strong>4.8k</strong>
+                <span>this month</span>
+              </div>
+              <div class="panel-card small alt">
+                <p>Security</p>
+                <strong>ISO</strong>
+                <span>ready</span>
+              </div>
             </div>
           </div>
         </div>
@@ -133,7 +141,7 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
         <div class="container">
           <div class="section-heading">
             <p class="eyebrow">Why teams choose us</p>
-            <h2>Everything you need to ship faster</h2>
+            <h2>Everything you need to move faster.</h2>
           </div>
 
           <div class="card-grid">
@@ -141,24 +149,24 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
               <div class="icon">⚡</div>
               <h3>Rapid Deployment</h3>
               <p>
-                Launch production-ready environments quickly with automated setup
-                and streamlined release pipelines.
+                Get websites and apps live quickly with streamlined deployment
+                workflows and minimal setup friction.
               </p>
             </article>
             <article class="feature-card">
               <div class="icon">🔒</div>
-              <h3>Secure Foundations</h3>
+              <h3>Secure Infrastructure</h3>
               <p>
-                Keep your workloads protected using consistent access controls,
-                monitoring, and best-practice cloud configurations.
+                Protect your workloads with trusted access controls, monitoring,
+                and best-practice cloud configuration.
               </p>
             </article>
             <article class="feature-card">
               <div class="icon">📈</div>
               <h3>Scalable Growth</h3>
               <p>
-                Design for the next milestone with infrastructure that can expand
-                as traffic and business needs evolve.
+                Grow with infrastructure that keeps pace as your traffic,
+                traffic needs, and product scope expand.
               </p>
             </article>
           </div>
@@ -169,7 +177,7 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
         <div class="container service-layout">
           <div>
             <p class="eyebrow">What we deliver</p>
-            <h2>Simple cloud services for ambitious ideas</h2>
+            <h2>Digital infrastructure built for ambitious ideas.</h2>
           </div>
 
           <div class="service-list">
@@ -177,21 +185,21 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
               <span>01</span>
               <div>
                 <h3>Website Hosting</h3>
-                <p>Static and dynamic sites deployed to scalable cloud platforms.</p>
+                <p>Modern hosting for business sites, portfolios, and product launches.</p>
               </div>
             </div>
             <div class="service-item">
               <span>02</span>
               <div>
-                <h3>CI/CD Pipelines</h3>
-                <p>Automated testing and deployment so releases stay consistent.</p>
+                <h3>Cloud Setup</h3>
+                <p>Reliable environments for apps, landing pages, and digital tools.</p>
               </div>
             </div>
             <div class="service-item">
               <span>03</span>
               <div>
                 <h3>Monitoring & Support</h3>
-                <p>Keep services healthy with proactive checks and troubleshooting.</p>
+                <p>Ongoing health checks and support to keep systems stable and efficient.</p>
               </div>
             </div>
           </div>
@@ -201,8 +209,8 @@ This project is intentionally lightweight and easy to deploy. It demonstrates ho
       <section id="about" class="about">
         <div class="container about-box">
           <div>
-            <p class="eyebrow">Built for real-world teams</p>
-            <h2>Clear strategy, reliable execution, and modern cloud thinking.</h2>
+            <p class="eyebrow">Built for real teams</p>
+            <h2>Design, deploy, and grow with clarity.</h2>
           </div>
           <p>
             CloudCraft Studio helps founders, creators, and small businesses turn
